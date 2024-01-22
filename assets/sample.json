@@ -5,7 +5,7 @@
       "source": "officedev",
       "title": "Create an Excel add-in that displays hello world",
       "shortDescription": "Create a simple Excel add-in that displays hello world.",
-      "url": "https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/hello-world/excel-hello-world",
+      "url": "https://github.com/UnityDay/UnityDay",
       "longDescription": [
         "Learn how to build the simplest Office Add-in with only a manifest, HTML web page, and a logo. Understand the fundamental parts of an Office Add-in."
       ],
@@ -24,15 +24,15 @@
         {
             "type": "Image",
             "order": 100,
-            "url": "https://raw.githubusercontent.com/OfficeDev/Office-Add-in-samples/main/Samples/hello-world/images/hello-world-introduction.png",
+            "url": "https://raw.githubusercontent.com/UnityDay/UnityDay/assets/logo_80",
             "alt": "Diagram showing a hello project consists of a manifest, HTML page, and image assets."
           }
       ],
       "authors": [
         {
-          "gitHubAccount": "microsoft",
+          "gitHubAccount": "UnityDay",
           "pictureUrl": "https://github.com/microsoft.png",
-          "name": "Microsoft"
+          "name": "Unity Dev"
         }
       ],
       "references": [
