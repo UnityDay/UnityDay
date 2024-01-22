@@ -24,7 +24,7 @@
         {
             "type": "Image",
             "order": 100,
-            "url": "https://raw.githubusercontent.com/UnityDay/UnityDay/assets/logo_80",
+            "url": "https://raw.githubusercontent.com/UnityDay/UnityDay/assets/icon-80.png",
             "alt": "Diagram showing a hello project consists of a manifest, HTML page, and image assets."
           }
       ],
